@@ -1,4 +1,4 @@
 def addition():
-    a = input("a:")
-    b = input("b:")
-    return a +b
+    a = input("a is:")
+    b = input("b is:")
+    return a + b
